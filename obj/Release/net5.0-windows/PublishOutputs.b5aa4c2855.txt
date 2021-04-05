@@ -1,0 +1,5 @@
+C:\Users\Programação\Desktop\para o bruno\tentativa.exe
+C:\Users\Programação\Desktop\para o bruno\tentativa.dll
+C:\Users\Programação\Desktop\para o bruno\tentativa.deps.json
+C:\Users\Programação\Desktop\para o bruno\tentativa.runtimeconfig.json
+C:\Users\Programação\Desktop\para o bruno\tentativa.pdb

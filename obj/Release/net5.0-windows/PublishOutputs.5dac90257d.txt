@@ -1,0 +1,5 @@
+C:\Users\Programação\Desktop\GITHUB\Calculadora.exe
+C:\Users\Programação\Desktop\GITHUB\Calculadora.dll
+C:\Users\Programação\Desktop\GITHUB\Calculadora.deps.json
+C:\Users\Programação\Desktop\GITHUB\Calculadora.runtimeconfig.json
+C:\Users\Programação\Desktop\GITHUB\Calculadora.pdb

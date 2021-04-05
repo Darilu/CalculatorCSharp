@@ -1,0 +1,5 @@
+C:\Users\Programação\Desktop\Calculadora base\tentativa.exe
+C:\Users\Programação\Desktop\Calculadora base\tentativa.dll
+C:\Users\Programação\Desktop\Calculadora base\tentativa.deps.json
+C:\Users\Programação\Desktop\Calculadora base\tentativa.runtimeconfig.json
+C:\Users\Programação\Desktop\Calculadora base\tentativa.pdb

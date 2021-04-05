@@ -1,0 +1,5 @@
+C:\Users\Programação\Desktop\Calculadora do sonic\tentativa.exe
+C:\Users\Programação\Desktop\Calculadora do sonic\tentativa.dll
+C:\Users\Programação\Desktop\Calculadora do sonic\tentativa.deps.json
+C:\Users\Programação\Desktop\Calculadora do sonic\tentativa.runtimeconfig.json
+C:\Users\Programação\Desktop\Calculadora do sonic\tentativa.pdb
